@@ -1,2 +1,2 @@
-# Sapling-Goal-RoadMap-Guidance
-AI Bot that gives a roadmap to accomplish your dream goal
+Compass : AI Career Counselor app gives you personalized career counseling experience tailored to your region and economic background. The app takes your career goal, your ecomoic conditions,class you are currently studying in, your nationality,
+your preferred language and finally your age. After combining allt these the app using Gemini LLM model provides you with the most relevant career advice and guidance. Whether you're a student exploring future career paths or a professional looking to make a career change, we're here to help you navigate your way to success.
